@@ -1,0 +1,93 @@
+{
+    "devs"  : [
+        {
+            "id"        : 1,
+            "name"      : "Samsung",
+            "warenty"       : 4,
+            "price"  : "70000",
+            "photo"     : "https://media.istockphoto.com/photos/galaxy-s20-on-a-white-background-picture-id1213025546?k=20&m=1213025546&s=612x612&w=0&h=6gf9I2rZdqGO8ydRhngZ1wpLxkCDZMtCL6FRhXUt5Zk=",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        },
+        {
+            "id"        : 2,
+            "name"      : "Oppu",
+            "warnety"   : 3,
+            "price"     : "50000",
+            "photo"     : "https://cdn.vox-cdn.com/thumbor/p20bME7t-R1XXdy7WeW3wdOr7wg=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/12026853/DSCF6490.jpg",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        },
+        {
+            "id"        : 3,
+            "name"      : "I Phone",
+            "warnety"   : 2,
+            "price"     : "170000",
+            "photo"     : "https://www.gizmochina.com/wp-content/uploads/2019/09/Apple-iPhone-11-1.jpg",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        },
+        
+        {
+            "id"        : 4,
+            "name"      : "HP Laptop",
+            "warnety"   : 4,
+            "price"     : "150000",
+            "photo"     : "https://i.gadgets360cdn.com/products/laptops/large/1546453588_635_hp_15-be020tu.jpg",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        },
+        {
+            "id"        : 5,
+            "name"      : "Acer Laptop",
+            "warnety"   : 2,
+            "price"     : "170000",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfWqGPK7QOPbrn184D1bH-xU6GyLBAOkEcGg&usqp=CAU",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        },
+        {
+            "id"        : 6,
+            "name"      : "Hp Desktop",
+            "warnety"   : 8,
+            "price"     : "105000",
+            "photo"     : "https://images.unsplash.com/photo-1587831990711-23ca6441447b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZGVza3RvcCUyMGNvbXB1dGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        },
+        {
+            "id"        : 7,
+            "name"      : "Acer Monitor",
+            "warnety"   : 2,
+            "price"     : "50000",
+            "photo"     : "https://www.lifewire.com/thmb/64iCGBH8mJZf99-gnlwVW0N6mwo=/1500x1125/smart/filters:no_upscale()/Acer-HD-monitor-57c8a7333df78c71b67166b2.jpg",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        },
+        {
+            "id"        : 8,
+            "name"      : "Hp Monitor",
+            "warnety"   : 4,
+            "price"     : "80000",
+            "photo"     : "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4643/4643043_sd.jpg",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        },
+        {
+            "id"        : 9,
+            "name"      : "Esonic Monitor",
+            "warnety"   : 2,
+            "price"     : "40000",
+            "photo"     : "https://static-01.daraz.com.bd/p/d92a713d6891f3385861ecef76d43448.jpg",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        },
+        {
+            "id"        : 10,
+            "name"      : "Asus Monitor",
+            "warnety"   : 7,
+            "price"     : "90000",
+            "photo"     : "https://www.globalbrand.com.bd/wp-content/uploads/2021/05/51.2.jpg",
+            "description" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sint, libero placeat doloribus voluptate aliquam accusantium id dolorem eligendi deleniti voluptatibus non officiis nesciunt minus reprehenderit ex ducimus quam nobis, tenetur consectetur labore? Unde fuga quo ad nesciunt atque recusandae, molestias iure! Fuga, sed ratione architecto accusamus similique neque distinctio!"
+        }
+    ]
+
+}
+        
+        
+
+                
+        
+        
+     
